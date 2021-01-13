@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/08 22:20:15.000.577,=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 22:31:33.000.938,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Cozimax.dfm=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/01/08 22:31:33.000.938,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Cozimax.pas=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 22:33:50.000.121,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\CozimaxERP.dproj=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/08 22:50:15.000.229,=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 22:50:49.000.827,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\DataModule.pas</Transaction>
+    <Transaction>2021/01/08 22:50:49.000.827,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.dfm=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\DataModule.dfm</Transaction>
+    <Transaction>2021/01/08 22:52:13.000.340,=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 22:59:44.000.395,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Cliente.pas</Transaction>
+    <Transaction>2021/01/08 22:59:44.000.395,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.dfm=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Cliente.dfm</Transaction>
+    <Transaction>2021/01/08 23:42:20.000.261,=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas</Transaction>
+    <Transaction>2021/01/08 23:43:10.000.093,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Produto.dfm=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.dfm</Transaction>
+    <Transaction>2021/01/08 23:43:10.000.093,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Produto.pas=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas</Transaction>
+    <Transaction>2021/01/09 00:13:16.000.153,=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas</Transaction>
+    <Transaction>2021/01/09 00:13:43.000.999,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Venda.dfm=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.dfm</Transaction>
+    <Transaction>2021/01/09 00:13:43.000.999,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Venda.pas=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas</Transaction>
+    <Transaction>2021/01/11 12:39:20.000.527,=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas</Transaction>
+    <Transaction>2021/01/11 12:40:12.000.148,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.pas=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\VendaConsulta.pas</Transaction>
+    <Transaction>2021/01/11 12:40:12.000.148,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\Unit1.dfm=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\Cozimax\VendaConsulta.dfm</Transaction>
+    <Transaction>2021/01/13 11:47:05.369,C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\CozimaxGit\CozimaxERP.dproj=C:\Users\rodrigo\Documents\Embarcadero\Studio\Projects\CozimaxGit\CozimaxERP.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
