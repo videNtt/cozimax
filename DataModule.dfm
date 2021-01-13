@@ -41,8 +41,8 @@ object dataModuleMain: TdataModuleMain
   object TableCliente: TFDTable
     IndexFieldNames = 'id'
     Connection = Conexao
-    UpdateOptions.UpdateTableName = 'imo.dbo.cliente'
-    TableName = 'imo.dbo.cliente'
+    UpdateOptions.UpdateTableName = 'cliente'
+    TableName = 'cliente'
     Left = 376
     Top = 8
     object TableClienteid: TFDAutoIncField
@@ -61,8 +61,8 @@ object dataModuleMain: TdataModuleMain
   object TableProduto: TFDTable
     IndexFieldNames = 'id'
     Connection = Conexao
-    UpdateOptions.UpdateTableName = 'imo.dbo.produto'
-    TableName = 'imo.dbo.produto'
+    UpdateOptions.UpdateTableName = 'produto'
+    TableName = 'produto'
     Left = 376
     Top = 64
     object TableProdutoid: TFDAutoIncField
@@ -90,8 +90,8 @@ object dataModuleMain: TdataModuleMain
     BeforeDelete = TableVendaBeforeDelete
     IndexFieldNames = 'id'
     Connection = Conexao
-    UpdateOptions.UpdateTableName = 'imo.dbo.venda'
-    TableName = 'imo.dbo.venda'
+    UpdateOptions.UpdateTableName = 'venda'
+    TableName = 'venda'
     Left = 376
     Top = 120
     object TableVendaid: TFDAutoIncField
@@ -125,8 +125,8 @@ object dataModuleMain: TdataModuleMain
     MasterSource = DataSourceVenda
     MasterFields = 'id'
     Connection = Conexao
-    UpdateOptions.UpdateTableName = 'imo.dbo.venda_item'
-    TableName = 'imo.dbo.venda_item'
+    UpdateOptions.UpdateTableName = 'venda_item'
+    TableName = 'venda_item'
     Left = 376
     Top = 176
     object TableVendaItemid: TFDAutoIncField
